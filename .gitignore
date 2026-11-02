@@ -1,0 +1,6 @@
+# Jangan pernah unggah kredensial atau backup biner
+*.backup
+*.rsc.raw
+.env
+*secret*
+!configs/*sanitized*
